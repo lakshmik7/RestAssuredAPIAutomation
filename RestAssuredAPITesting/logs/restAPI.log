@@ -1,0 +1,353 @@
+2020-05-11 19:58:48 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 20:00:21 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 20:00:31 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-11 20:00:31 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-11 20:00:31 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"Lakshmif","salary":"49133","age":"22","id":96}}
+2020-05-11 20:00:31 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-11 20:00:31 INFO  RestAPITesting:78 - response time ==>2805
+2020-05-11 20:00:31 WARN  RestAPITesting:80 - response time is greater than 2000
+2020-05-11 20:00:31 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-11 20:00:31 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-11 20:00:31 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-11 20:00:31 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:00:31 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-11 20:39:44 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-11 20:39:51 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-11 20:39:51 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-11 20:39:51 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@3f725306
+2020-05-11 20:39:51 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-11 20:39:51 INFO  RestAPITesting:60 - response time ==>2791
+2020-05-11 20:39:51 WARN  RestAPITesting:62 - response time is greater than 2000
+2020-05-11 20:39:51 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-11 20:39:51 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-11 20:39:51 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-11 20:39:51 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:39:51 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-11 20:39:51 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 20:39:57 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-11 20:39:57 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-11 20:39:57 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"LakshmiS","salary":"22104","age":"13","id":67}}
+2020-05-11 20:39:57 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-11 20:39:57 INFO  RestAPITesting:78 - response time ==>947
+2020-05-11 20:39:57 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-11 20:39:57 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-11 20:39:57 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-11 20:39:57 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:39:57 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-11 20:39:57 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:39:58 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-11 20:40:05 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-11 20:40:05 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-11 20:40:05 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-11 20:40:05 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-11 20:40:05 INFO  RestAPITesting:68 - response time ==>861
+2020-05-11 20:40:05 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-11 20:40:05 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-11 20:40:05 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-11 20:40:05 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:40:05 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-11 20:40:51 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:41:27 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:41:36 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 20:41:36 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 20:41:36 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 20:41:36 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 20:41:36 INFO  RestAPITesting:79 - response time ==>2199
+2020-05-11 20:41:36 WARN  RestAPITesting:81 - response time is greater than 2000
+2020-05-11 20:41:36 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 20:41:36 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 20:41:36 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 20:41:36 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:41:36 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 20:43:02 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-11 20:43:05 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-11 20:43:05 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-11 20:43:05 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@6ecdbab8
+2020-05-11 20:43:05 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-11 20:43:05 INFO  RestAPITesting:60 - response time ==>1243
+2020-05-11 20:43:05 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-11 20:43:05 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-11 20:43:05 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-11 20:43:05 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:43:05 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-11 20:43:05 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 20:43:11 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-11 20:43:11 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-11 20:43:11 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"LakshmiK","salary":"64391","age":"11","id":85}}
+2020-05-11 20:43:11 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-11 20:43:11 INFO  RestAPITesting:78 - response time ==>978
+2020-05-11 20:43:11 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-11 20:43:11 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-11 20:43:12 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-11 20:43:12 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:43:12 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-11 20:43:12 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:43:17 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 20:43:17 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 20:43:17 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 20:43:17 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 20:43:17 INFO  RestAPITesting:79 - response time ==>890
+2020-05-11 20:43:17 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 20:43:17 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 20:43:17 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 20:43:17 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:43:17 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 20:43:17 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-11 20:43:24 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-11 20:43:24 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-11 20:43:24 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-11 20:43:24 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-11 20:43:24 INFO  RestAPITesting:68 - response time ==>926
+2020-05-11 20:43:24 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-11 20:43:24 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-11 20:43:24 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-11 20:43:24 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:43:24 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-11 20:48:53 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-11 20:48:56 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-11 20:48:56 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-11 20:48:56 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@59dc36d4
+2020-05-11 20:48:56 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-11 20:48:56 INFO  RestAPITesting:60 - response time ==>1478
+2020-05-11 20:48:56 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-11 20:48:56 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-11 20:48:56 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-11 20:48:56 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:48:56 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-11 20:48:56 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 20:49:02 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-11 20:49:02 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-11 20:49:02 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"Lakshmid","salary":"26496","age":"40","id":94}}
+2020-05-11 20:49:02 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-11 20:49:02 INFO  RestAPITesting:78 - response time ==>1015
+2020-05-11 20:49:02 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-11 20:49:02 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-11 20:49:02 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-11 20:49:02 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:49:02 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-11 20:49:02 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:49:08 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 20:49:08 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 20:49:08 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 20:49:08 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 20:49:08 INFO  RestAPITesting:79 - response time ==>985
+2020-05-11 20:49:08 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 20:49:08 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 20:49:08 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 20:49:08 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:49:08 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 20:49:08 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-11 20:49:15 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-11 20:49:15 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-11 20:49:15 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-11 20:49:15 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-11 20:49:15 INFO  RestAPITesting:68 - response time ==>1082
+2020-05-11 20:49:15 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-11 20:49:15 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-11 20:49:15 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-11 20:49:15 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:49:15 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-11 20:55:06 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:55:15 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 20:55:15 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 20:55:15 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 20:55:15 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 20:55:15 INFO  RestAPITesting:79 - response time ==>2493
+2020-05-11 20:55:15 WARN  RestAPITesting:81 - response time is greater than 2000
+2020-05-11 20:55:15 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 20:55:15 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 20:55:15 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 20:55:15 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:55:15 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 20:55:53 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 20:56:01 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 20:56:01 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 20:56:01 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 20:56:01 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 20:56:01 INFO  RestAPITesting:79 - response time ==>2018
+2020-05-11 20:56:01 WARN  RestAPITesting:81 - response time is greater than 2000
+2020-05-11 20:56:01 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 20:56:01 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 20:56:01 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 20:56:01 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 20:56:01 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 21:04:15 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-11 21:04:19 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-11 21:04:19 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-11 21:04:19 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@6cd64ee8
+2020-05-11 21:04:19 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-11 21:04:19 INFO  RestAPITesting:60 - response time ==>2168
+2020-05-11 21:04:19 WARN  RestAPITesting:62 - response time is greater than 2000
+2020-05-11 21:04:19 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-11 21:04:19 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-11 21:04:19 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-11 21:04:19 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 21:04:19 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-11 21:04:19 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-11 21:04:25 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-11 21:04:25 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-11 21:04:25 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"Lakshmig","salary":"02496","age":"86","id":61}}
+2020-05-11 21:04:25 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-11 21:04:25 INFO  RestAPITesting:78 - response time ==>1017
+2020-05-11 21:04:25 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-11 21:04:25 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-11 21:04:25 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-11 21:04:25 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 21:04:25 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-11 21:04:25 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-11 21:04:31 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-11 21:04:31 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-11 21:04:31 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-11 21:04:31 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-11 21:04:31 INFO  RestAPITesting:79 - response time ==>977
+2020-05-11 21:04:31 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-11 21:04:31 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-11 21:04:31 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-11 21:04:31 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 21:04:31 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-11 21:04:31 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-11 21:04:40 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-11 21:04:40 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-11 21:04:40 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-11 21:04:40 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-11 21:04:40 INFO  RestAPITesting:68 - response time ==>857
+2020-05-11 21:04:40 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-11 21:04:40 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-11 21:04:40 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-11 21:04:40 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-11 21:04:40 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-12 19:11:32 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-12 19:11:40 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-12 19:11:41 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-12 19:11:41 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@b606cb6
+2020-05-12 19:11:41 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-12 19:11:41 INFO  RestAPITesting:60 - response time ==>4531
+2020-05-12 19:11:41 WARN  RestAPITesting:62 - response time is greater than 2000
+2020-05-12 19:11:41 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-12 19:11:41 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-12 19:11:41 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-12 19:11:41 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-12 19:11:41 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-12 19:11:41 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-12 19:11:47 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-12 19:11:47 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-12 19:11:47 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"LakshmiW","salary":"53570","age":"74","id":49}}
+2020-05-12 19:11:47 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-12 19:11:47 INFO  RestAPITesting:78 - response time ==>904
+2020-05-12 19:11:47 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-12 19:11:47 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-12 19:11:47 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-12 19:11:47 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-12 19:11:47 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-12 19:11:47 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-12 19:11:53 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-12 19:11:53 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-12 19:11:53 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-12 19:11:53 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-12 19:11:53 INFO  RestAPITesting:79 - response time ==>949
+2020-05-12 19:11:53 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-12 19:11:53 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-12 19:11:53 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-12 19:11:53 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-12 19:11:53 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-12 19:11:53 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-12 19:12:02 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-12 19:12:02 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-12 19:12:02 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-12 19:12:02 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-12 19:12:02 INFO  RestAPITesting:68 - response time ==>1063
+2020-05-12 19:12:02 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-12 19:12:02 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-12 19:12:02 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-12 19:12:02 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-12 19:12:02 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-13 14:45:37 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-13 14:45:45 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-13 14:45:45 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-13 14:45:45 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@582a764a
+2020-05-13 14:45:45 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-13 14:45:45 INFO  RestAPITesting:60 - response time ==>4797
+2020-05-13 14:45:45 WARN  RestAPITesting:62 - response time is greater than 2000
+2020-05-13 14:45:45 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-13 14:45:45 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-13 14:45:45 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-13 14:45:45 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 14:45:45 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-13 14:45:45 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-13 14:45:51 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-13 14:45:51 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-13 14:45:51 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"Lakshmib","salary":"85079","age":"58","id":45}}
+2020-05-13 14:45:51 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-13 14:45:51 INFO  RestAPITesting:78 - response time ==>1053
+2020-05-13 14:45:51 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-13 14:45:51 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-13 14:45:51 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-13 14:45:51 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 14:45:51 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-13 14:45:51 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-13 14:45:57 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-13 14:45:57 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-13 14:45:57 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-13 14:45:57 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-13 14:45:57 INFO  RestAPITesting:79 - response time ==>846
+2020-05-13 14:45:57 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-13 14:45:57 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-13 14:45:57 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-13 14:45:57 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 14:45:57 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-13 14:45:57 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-13 14:46:05 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-13 14:46:05 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-13 14:46:05 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-13 14:46:05 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-13 14:46:05 INFO  RestAPITesting:68 - response time ==>884
+2020-05-13 14:46:05 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-13 14:46:05 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-13 14:46:05 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-13 14:46:05 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 14:46:05 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******
+2020-05-13 16:02:29 INFO  RestAPITesting:19 - *******Started Get_AllEmployeeDetails testcase********
+2020-05-13 16:02:36 INFO  RestAPITesting:69 - ******Checking cookies******
+2020-05-13 16:02:36 INFO  RestAPITesting:31 - ******Checking response body*******
+2020-05-13 16:02:36 INFO  RestAPITesting:33 - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@673919a7
+2020-05-13 16:02:36 INFO  RestAPITesting:58 - ******Checking response time ******
+2020-05-13 16:02:36 INFO  RestAPITesting:60 - response time ==>3998
+2020-05-13 16:02:36 WARN  RestAPITesting:62 - response time is greater than 2000
+2020-05-13 16:02:36 INFO  RestAPITesting:40 - ******Checking status code******
+2020-05-13 16:02:36 INFO  RestAPITesting:42 - Status Code ==>200
+2020-05-13 16:02:36 INFO  RestAPITesting:49 - ******Checking status line******
+2020-05-13 16:02:36 INFO  RestAPITesting:51 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 16:02:36 INFO  RestAPITesting:75 - ********Finished Get_AllEmployeeDetails testcse******
+2020-05-13 16:02:36 INFO  RestAPITesting:24 - *******Started Post_EmployeeRecord testcase********
+2020-05-13 16:02:42 INFO  RestAPITesting:87 - ******Checking cookies******
+2020-05-13 16:02:42 INFO  RestAPITesting:48 - ******Checking response body*******
+2020-05-13 16:02:42 INFO  RestAPITesting:50 - Response Body ==>{"status":"success","data":{"name":"Lakshmih","salary":"31002","age":"39","id":69}}
+2020-05-13 16:02:42 INFO  RestAPITesting:76 - ******Checking response time ******
+2020-05-13 16:02:42 INFO  RestAPITesting:78 - response time ==>864
+2020-05-13 16:02:42 INFO  RestAPITesting:58 - ******Checking status code******
+2020-05-13 16:02:42 INFO  RestAPITesting:60 - Status Code ==>200
+2020-05-13 16:02:42 INFO  RestAPITesting:67 - ******Checking status line******
+2020-05-13 16:02:42 INFO  RestAPITesting:69 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 16:02:42 INFO  RestAPITesting:93 - ********Finished POST_EmployeeRecord testcse******
+2020-05-13 16:02:42 INFO  RestAPITesting:25 - *******Started Update_EmployeeRecord testcase********
+2020-05-13 16:02:48 INFO  RestAPITesting:88 - ******Checking cookies******
+2020-05-13 16:02:48 INFO  RestAPITesting:49 - ******Checking response body*******
+2020-05-13 16:02:48 INFO  RestAPITesting:51 - Response Body ==>{"status":"success","data":null}
+2020-05-13 16:02:48 INFO  RestAPITesting:77 - ******Checking response time ******
+2020-05-13 16:02:48 INFO  RestAPITesting:79 - response time ==>904
+2020-05-13 16:02:48 INFO  RestAPITesting:59 - ******Checking status code******
+2020-05-13 16:02:48 INFO  RestAPITesting:61 - Status Code ==>200
+2020-05-13 16:02:48 INFO  RestAPITesting:68 - ******Checking status line******
+2020-05-13 16:02:48 INFO  RestAPITesting:70 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 16:02:48 INFO  RestAPITesting:94 - ********Finished Update_EmployeeRecord testcse******
+2020-05-13 16:02:48 INFO  RestAPITesting:22 - *******Started Delete_EmployeeRecord testcase********
+2020-05-13 16:02:56 INFO  RestAPITesting:77 - ******Checking cookies******
+2020-05-13 16:02:56 INFO  RestAPITesting:39 - ******Checking response body*******
+2020-05-13 16:02:56 INFO  RestAPITesting:41 - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+2020-05-13 16:02:56 INFO  RestAPITesting:66 - ******Checking response time ******
+2020-05-13 16:02:56 INFO  RestAPITesting:68 - response time ==>750
+2020-05-13 16:02:56 INFO  RestAPITesting:48 - ******Checking status code******
+2020-05-13 16:02:56 INFO  RestAPITesting:50 - Status Code ==>200
+2020-05-13 16:02:56 INFO  RestAPITesting:57 - ******Checking status line******
+2020-05-13 16:02:56 INFO  RestAPITesting:59 - Status line ==>HTTP/1.1 200 OK
+2020-05-13 16:02:56 INFO  RestAPITesting:83 - ********Finished Delete_EmployeeRecord testcse******

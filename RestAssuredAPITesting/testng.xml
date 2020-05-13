@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RestAPITestSuite">
+	<listeners>
+		<listener class-name="com.restapi.utilities.Listeners" />
+	</listeners>
+	<test thread-count="4" name="RestAPITestcases">
+		<classes>
+			<class name="com.restapi.testcases.Get_AllEmployeeDetails" />
+			<class name="com.restapi.testcases.Post_EmployeeRecord" />
+			<class name="com.restapi.testcases.Update_EmployeeRecord" />
+			<class name="com.restapi.testcases.Delete_EmployeeRecord" />
+		</classes>
+		</test><!-- Test -->
+	</suite><!-- Suite -->
